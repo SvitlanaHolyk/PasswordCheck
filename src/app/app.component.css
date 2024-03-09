@@ -1,0 +1,36 @@
+#password {
+  border: 1px solid gray;
+  border-radius: 5px;
+  height: 25px;
+  width: 175px;
+  margin-left: 6px;
+}
+.password-form {
+  width: 325px;
+  margin: 10px auto 10px auto;
+}
+.password-strength {
+  margin-top: 5px;
+}
+.password-strength div {
+  border-radius: 5px;
+  height: 25px;
+  margin: 10px auto 10px auto;
+  width: 180px;
+  background-color: gray;
+}
+.password-strength .blank {
+  background-color: gray;
+}
+.password-strength .ckeck-length {
+  background-color: red;
+}
+.password-strength .easy {
+  background-color: red;
+}
+.password-strength .medium {
+  background-color: yellow;
+}
+.password-strength .strong {
+  background-color: green;
+}
