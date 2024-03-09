@@ -1,4 +1,4 @@
-# PasswordCheck
+# PasswordStrength
 
 ## About 
 - A field for entering a password has been added, and 3 sections have been added below the field to show the password strength;
